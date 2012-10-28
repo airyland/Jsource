@@ -43,6 +43,9 @@
 + 随网之舞:http://dancewithnet.com/
 + sofish:http://sofish.de/
 + 样式之美——嗷嗷:http://www.aoao.org.cn/blog/
++ 阮一峰
++ 克军
++ 拔赤
 
 ## 国外博客
 John Resig:http://ejohn.org/
@@ -69,17 +72,24 @@ DailyJS
 + `YDN` http://developer.yahoo.com/
 + http://www.w3chools.com/
 + http://dev.opera.com
+
 ## 其他
 + JS Garden
 + Google
 + http://html5doctor.com/
 + http://html5doctor.com/
++ google reader
 
 ## 工具
-+ Fiddler
++ Fiddler2
 + firebug
 + chrome developer tools
 + IE Tester
++ Ant
++ YSlow
++ Page Speed
++ IEDevelopToolbar
++ HttpWatch
 ### 压缩工具
 + closure
 + YUI Compressor
@@ -127,6 +137,24 @@ DailyJS
 + segmentfault
 + zhihu
 
+## 会议
++ webRebuild   成立于2007年，腾讯的彪叔、Ghost等是创始人，目前每年在广州、深圳、上海、北京、成都都会举办分会场交流会
+
++ D2    由 淘宝网 发起，淘宝的圆心、小马等是创始人，每年在杭州举办交流会和年会
+
++ W3ctech   成立于2009年，崔凯和林毅等是创始人，每年在广州、上海、杭州、长沙、北京都会有分会场交流会
+
++ NodeParty  成立于2011年，朴灵、老赵创始人，每年在深圳、杭州、上海、北京有分会场交流会
+
++ html5研究小组 成立于2011年，田爱娜创始人，该组织已加入W3C，每年在北京、上海、广州、南京、成都、深圳、杭州、武汉、大连9个城市有分会场交流会
+
+
++ 收费的推荐QCon和Velocity China，前者是全球软件开发大会，由infoQ主办，门票价格很贵哦，不过分享的东西的价值远高于门票价格，后者是web性能与运维大会，由大名鼎鼎的动物书公司oreilly主办。
+
+
+
 
 ## 参考：
 + http://www.yaohaixiao.com/blog/the-f2e-web-sites.html
++ http://www.smallni.com/rebuild-thinking/
+
