@@ -7,10 +7,6 @@
 + ExtJS
 + express
 
-
-
-
-
 ## 国内开源库
 + 淘宝：kiddy
 + 腾讯：JX
@@ -52,7 +48,6 @@ John Resig:http://ejohn.org/
 http://javascript.crockford.com/
 Nicholas C. Zakas:http://www.nczonline.net/
 cssTricks
-NetTut??
 DailyJS
 
 
@@ -60,7 +55,7 @@ DailyJS
 + 语言精粹
 + 设计模式
 + 权威指南
-+ 
+
 
 
 ## 手册
@@ -147,11 +142,6 @@ DailyJS
 + NodeParty  成立于2011年，朴灵、老赵创始人，每年在深圳、杭州、上海、北京有分会场交流会
 
 + html5研究小组 成立于2011年，田爱娜创始人，该组织已加入W3C，每年在北京、上海、广州、南京、成都、深圳、杭州、武汉、大连9个城市有分会场交流会
-
-
-+ 收费的推荐QCon和Velocity China，前者是全球软件开发大会，由infoQ主办，门票价格很贵哦，不过分享的东西的价值远高于门票价格，后者是web性能与运维大会，由大名鼎鼎的动物书公司oreilly主办。
-
-
 
 
 ## 参考：
