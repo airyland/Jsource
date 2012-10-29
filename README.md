@@ -14,7 +14,7 @@
 + 腾讯：[JX](https://github.com/AlloyTeam/JX "jx")
 + 百度：[Tangram](https://github.com/BaiduFE/Tangram-base "Tangram")
 + 360:[Qwrap](https://github.com/wedteam/qwrap "Qwrap")
-
++ 支付宝：[Arale](https://github.com/alipay/arale)
 
 ## 个人
 + 司徒正美：[Mass-Framework](https://github.com/RubyLouvre/mass-Framework "mass-Framework")
@@ -66,6 +66,7 @@
 + [cssTricks](http://css-tricks.com/)
 + [DailyJS](http://dailyjs.com/)
 + [tutsplus](http://net.tutsplus.com/category/tutorials/javascript-ajax/)
++ [smashingmagazine](http://www.smashingmagazine.com/)
 
 
 ## 手册
