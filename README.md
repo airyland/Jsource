@@ -15,6 +15,7 @@
 + 百度：[Tangram](https://github.com/BaiduFE/Tangram-base "Tangram")
 + 360:[Qwrap](https://github.com/wedteam/qwrap "Qwrap")
 + 支付宝：[Arale](https://github.com/alipay/arale)
++ 一淘 UX [brix](https://github.com/etaoux/brix)
 
 ## 个人
 + 司徒正美：[Mass-Framework](https://github.com/RubyLouvre/mass-Framework "mass-Framework")
@@ -68,6 +69,8 @@
 + [tutsplus](http://net.tutsplus.com/category/tutorials/javascript-ajax/)
 + [smashingmagazine](http://www.smashingmagazine.com/)
 
+## ppt
++ [支付宝前端技术之路](http://vdisk.weibo.com/s/gGx-d/1351359485)
 
 ## 手册
 + [`MDN`](https://developer.mozilla.org/)
