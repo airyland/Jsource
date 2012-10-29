@@ -5,7 +5,9 @@
 + Dojo
 + YUI
 + ExtJS
++ Modernizr https://github.com/Modernizr/Modernizr
 + express
++ javascript-patterns https://github.com/shichuan/javascript-patterns
 
 ## 国内开源库
 + 淘宝：kiddy
