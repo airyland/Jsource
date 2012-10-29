@@ -1,25 +1,25 @@
 ## 国外开源JavaScript库
-+ jQuery
-+ prototype
-+ mootools
-+ Dojo
-+ YUI
++ [jQuery](https://github.com/jquery/jquery "jQuery")
++ [prototype](https://github.com/sstephenson/prototype "prototype")
++ [mootools](https://github.com/mootools/mootools-core "mootools")
++ [Dojo](https://github.com/dojo/dojo "Dojo")
++ [YUI](https://github.com/yui/yui3 "YUI3")
 + ExtJS
-+ Modernizr https://github.com/Modernizr/Modernizr
-+ express
-+ javascript-patterns https://github.com/shichuan/javascript-patterns
++ [Modernizr](https://github.com/Modernizr/Modernizr "Modernizr") 
++ [express](https://github.com/visionmedia/express "express")
++ [javascript-patterns](https://github.com/shichuan/javascript-patterns "javascript-patterns") 
 
 ## 国内开源库
-+ 淘宝：kiddy
-+ 腾讯：JX
-+ 百度：Tangram
-+ 360:Qwrap
-+ 携程：
++ 淘宝：[kissy](https://github.com/kissyteam/kissy "kissy")
++ 腾讯：[JX](https://github.com/AlloyTeam/JX "jx")
++ 百度：[Tangram](https://github.com/BaiduFE/Tangram-base "Tangram")
++ 360:[Qwrap](https://github.com/wedteam/qwrap "Qwrap")
+
 
 ## 个人
-+ 司徒正美：Mass-Framework
-+ base2
-+ bBank
++ 司徒正美：[Mass-Framework](https://github.com/RubyLouvre/mass-Framework "mass-Framework")
++ [base2](http://code.google.com/p/base2/ "base2")
++ [Qatrix ](https://github.com/qatrix/Qatrix "Qatrix")
 
 ## 其他
 + LESS
@@ -53,13 +53,6 @@ cssTricks
 DailyJS
 
 
-## 书籍
-+ 语言精粹
-+ 设计模式
-+ 权威指南
-
-
-
 ## 手册
 + `MDN`
 + `quirkModes`(PPK)
@@ -70,12 +63,12 @@ DailyJS
 + http://www.w3chools.com/
 + http://dev.opera.com
 
-## 其他
-+ JS Garden
-+ Google
-+ http://html5doctor.com/
-+ http://html5doctor.com/
-+ google reader
+## 书籍
++ 语言精粹
++ 设计模式
++ 权威指南
+
+
 
 ## 工具
 + Fiddler2
@@ -87,6 +80,7 @@ DailyJS
 + Page Speed
 + IEDevelopToolbar
 + HttpWatch
+
 ### 压缩工具
 + closure
 + YUI Compressor
@@ -95,6 +89,7 @@ DailyJS
 + Qunit
 + Junit
 + YUI
+
 ### 在线工具
 + HTML Validator:`http://validator.w3.org/`
 + CSS Validator `http://jigsaw.w3.org/css-validator/`
@@ -107,7 +102,7 @@ DailyJS
 + jsfiddler
 
 ### 正则工具
-+ RegexBuddy
++ [RegexBuddy](http://www.regexbuddy.com/ "regexbuddy")
 
 ##　版本控制
 + GIT
@@ -134,6 +129,13 @@ DailyJS
 + segmentfault
 + zhihu
 
+## 其他
++ Google
++ google reader
++ JS Garden
++ http://html5doctor.com/
+
+
 ## 会议
 + webRebuild   成立于2007年，腾讯的彪叔、Ghost等是创始人，目前每年在广州、深圳、上海、北京、成都都会举办分会场交流会
 
@@ -145,6 +147,14 @@ DailyJS
 
 + html5研究小组 成立于2011年，田爱娜创始人，该组织已加入W3C，每年在北京、上海、广州、南京、成都、深圳、杭州、武汉、大连9个城市有分会场交流会
 
+
+## node.js
++ Node入门 http://www.nodebeginner.org/index-zh-cn.html
++  stream-handbook https://github.com/substack/stream-handbook
+
+
+## other 
++ hosts https://github.com/davidsun/HostsFile
 
 ## 参考：
 + http://www.yaohaixiao.com/blog/the-f2e-web-sites.html

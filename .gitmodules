@@ -31,3 +31,25 @@
 [submodule "jquery-mobile"]
 	path = jquery-mobile
 	url = git://github.com/jquery/jquery-mobile.git
+[submodule "yui3"]
+	path = yui3
+	url = git://github.com/yui/yui3.git
+
+[submodule "JX"]
+	path = JX
+	url = git://github.com/AlloyTeam/JX.git
+[submodule "qwrap"]
+	path = qwrap
+	url = git://github.com/wedteam/qwrap.git
+[submodule "Tangram-base"]
+	path = Tangram-base
+	url = git://github.com/BaiduFE/Tangram-base.git
+[submodule "Qatrix"]
+	path = Qatrix
+	url = git://github.com/qatrix/Qatrix.git
+[submodule "mass-Framework"]
+	path = mass-Framework
+	url = git://github.com/RubyLouvre/mass-Framework.git
+[submodule "kissy"]
+	path = kissy
+	url = git://github.com/kissyteam/kissy.git
