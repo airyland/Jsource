@@ -1,3 +1,5 @@
+![skills](./skill.png)
+
 ## 国外开源JavaScript库
 + [jQuery](https://github.com/jquery/jquery "jQuery")
 + [prototype](https://github.com/sstephenson/prototype "prototype")
@@ -82,6 +84,24 @@
 + `YDN` http://developer.yahoo.com/
 + http://www.w3chools.com/
 + http://dev.opera.com
++ CSS Reference – https://developer.mozilla.org/en/CSS/CSS_Reference
+
++ HTML Reference – https://developer.mozilla.org/en/HTML
+
++ HTML5 Reference – https://developer.mozilla.org/en/HTML/HTML5
+
++ Schema Reference – http://schema.org/
+
++ Javascript Guide – https://developer.mozilla.org/en/JavaScript/Guide
+
++ jQuery – http://docs.jquery.com/Main_Page
+
++ IMPROVED jQuery Documentation- http://jqapi.com/
+
++ LESS (CSS Preprocessor) – http://lesscss.org/
+
++ SASS (CSS Preprocessor) Documentation – http://sass-lang.com/docs.html
+
 
 
 ## 书籍
