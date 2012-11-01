@@ -1,4 +1,4 @@
-![skills](./skill.png)
+![skills](./Jsource/blob/master/skill.pngskill.png)
 
 ## 国外开源JavaScript库
 + [jQuery](https://github.com/jquery/jquery "jQuery")
