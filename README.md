@@ -71,8 +71,6 @@
 + [tutsplus](http://net.tutsplus.com/category/tutorials/javascript-ajax/)
 + [smashingmagazine](http://www.smashingmagazine.com/)
 
-## ppt
-+ [支付宝前端技术之路](http://vdisk.weibo.com/s/gGx-d/1351359485)
 
 ## 手册
 + [`MDN`](https://developer.mozilla.org/)
@@ -108,6 +106,7 @@
 + 语言精粹
 + 设计模式
 + 权威指南
++ 高级程序设计
 
 
 
@@ -136,6 +135,11 @@
 + [CSS Validator](http://jigsaw.w3.org/css-validator/)
 + [Page Speed](https://developers.google.com/speed/pagespeed/)
 
+#### placeholders
++ [http://placekitten.com/](http://placekitten.com/)
++ [http://dummyimage.com/](http://dummyimage.com/)
++ [http://flickholdr.com/](http://flickholdr.com/)
+
 ## gist
 + [github:gist](https://gist.github.com/)
 
@@ -158,6 +162,10 @@
 + webstorm
 + IntelliJ IDEA
 + [插件]Zencoding
+
+
+## ppt
++ http://slides.html5rocks.com
 
 ## 图像
 + MarkMan
