@@ -78,13 +78,13 @@
 
 
 ## 手册
-+ [`MDN`](https://developer.mozilla.org/)
-+ [`QuirksMode`(PPK)](http://www.quirksmode.org/)
++ [MDN](https://developer.mozilla.org/)
++ [QuirksMode(PPK)](http://www.quirksmode.org/)
 + [haslayout](http://haslayout.net/ "haslayout")
 + http://www.w3.org/standards/techs/html#w3c_all
 + http://www.w3.org/standards/techs/css#w3c_all
-+ `ECMAScript 262`: http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
-+ `YDN` http://developer.yahoo.com/
++ ECMAScript 262: http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
++ YDN http://developer.yahoo.com/
 + http://www.w3chools.com/
 + http://dev.opera.com
 + CSS Reference – https://developer.mozilla.org/en/CSS/CSS_Reference
@@ -115,6 +115,7 @@
 
 ## 阅读
 + [对话《JavaScript高级程序设计》作者 Nicholas C. Zakas（中文版）](http://www.ituring.com.cn/article/1791)
++ [前端架构](http://hikejun.com/sharing/2010webrebuild/?file=fe-infrastructure.html#1)
 
 ## 工具
 + [Fiddler2](http://www.fiddler2.com/fiddler2/)
