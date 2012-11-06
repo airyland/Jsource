@@ -1,5 +1,8 @@
 ![skills](https://github.com/airyland/Jsource/raw/master/skill.png)
 
+@拔赤
+![skills](https://github.com/airyland/Jsource/raw/master/skill02.jpg)
+
 ## 国外开源JavaScript库
 + [jQuery](https://github.com/jquery/jquery "jQuery")
 + [prototype](https://github.com/sstephenson/prototype "prototype")
@@ -23,6 +26,8 @@
 + 司徒正美：[Mass-Framework](https://github.com/RubyLouvre/mass-Framework "mass-Framework")
 + [base2](http://code.google.com/p/base2/ "base2")
 + [Qatrix ](https://github.com/qatrix/Qatrix "Qatrix")
++ 老赵：wind.js
++ 玉伯：sea.js
 
 ## 其他
 + [LESS](http://lesscss.org "lesscss")
