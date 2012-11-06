@@ -113,7 +113,8 @@
 + 权威指南
 + 高级程序设计
 
-
+## 阅读
++ [对话《JavaScript高级程序设计》作者 Nicholas C. Zakas（中文版）](http://www.ituring.com.cn/article/1791)
 
 ## 工具
 + [Fiddler2](http://www.fiddler2.com/fiddler2/)
