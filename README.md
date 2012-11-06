@@ -63,7 +63,7 @@
 + [三水清](http://js8.in/)
 + [w3cplus](http://www.w3cplus.com/)
 + [当耐特砖家](http://www.cnblogs.com/iamzhanglei)
-+ [为之漫笔](http://www.cn-cuckoo.com/)
++ [为之漫笔](http://www.cn-cuckoo.com/)(李松峰)
 + [36ria](http://www.36ria.com/)
 + [前端乱炖](http://www.html-js.com/)
 
