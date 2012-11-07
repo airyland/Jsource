@@ -1,20 +1,20 @@
+## 前端技能
 ![skills](https://github.com/airyland/Jsource/raw/master/skill.png)
 
 @拔赤
 ![skills](https://github.com/airyland/Jsource/raw/master/skill02.jpg)
 
-## 国外开源JavaScript库
+## 国外开源项目
 + [jQuery](https://github.com/jquery/jquery "jQuery")
 + [prototype](https://github.com/sstephenson/prototype "prototype")
 + [mootools](https://github.com/mootools/mootools-core "mootools")
 + [Dojo](https://github.com/dojo/dojo "Dojo")
 + [YUI](https://github.com/yui/yui3 "YUI3")
-+ ExtJS
 + [Modernizr](https://github.com/Modernizr/Modernizr "Modernizr") 
 + [express](https://github.com/visionmedia/express "express")
 + [javascript-patterns](https://github.com/shichuan/javascript-patterns "javascript-patterns") 
 
-## 国内开源库
+## 国内开源项目
 + 淘宝：[kissy](https://github.com/kissyteam/kissy "kissy")
 + 腾讯：[JX](https://github.com/AlloyTeam/JX "jx")
 + 百度：[Tangram](https://github.com/BaiduFE/Tangram-base "Tangram")
@@ -22,19 +22,19 @@
 + 支付宝：[Arale](https://github.com/alipay/arale)
 + 一淘 UX [brix](https://github.com/etaoux/brix)
 
-## 个人
+## 个人开源项目
 + 司徒正美：[Mass-Framework](https://github.com/RubyLouvre/mass-Framework "mass-Framework")
 + [base2](http://code.google.com/p/base2/ "base2")
 + [Qatrix ](https://github.com/qatrix/Qatrix "Qatrix")
-+ 老赵：wind.js
-+ 玉伯：sea.js
++ 老赵：[Wind.js](http://windjs.org "windjs")
++ 玉伯：[SeaJS](http://seajs.org)
 
 ## 其他
 + [LESS](http://lesscss.org "lesscss")
 + [SASS](http://sass-lang.com/ "sass-lang")
 + [CoffeeScript](http://coffeescript.org/ "coffeescript")
 + [Node.js](http://nodejs.org/ "node.js")
-
++ [Meteor](http://meteor.com/ "Meteor")
 
 ## 国内博客
 + [司徒正美](http://www.cnblogs.com/rubylouvre "司徒正美")
@@ -79,14 +79,23 @@
 
 ## 手册
 + [MDN](https://developer.mozilla.org/)
+
 + [QuirksMode(PPK)](http://www.quirksmode.org/)
+
 + [haslayout](http://haslayout.net/ "haslayout")
+
 + http://www.w3.org/standards/techs/html#w3c_all
+
 + http://www.w3.org/standards/techs/css#w3c_all
+
 + ECMAScript 262: http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+
 + YDN http://developer.yahoo.com/
-+ http://www.w3chools.com/
+
++ w3schools:http://www.w3schools.com/
+
 + http://dev.opera.com
+
 + CSS Reference – https://developer.mozilla.org/en/CSS/CSS_Reference
 
 + HTML Reference – https://developer.mozilla.org/en/HTML
@@ -108,10 +117,11 @@
 
 
 ## 书籍
-+ 语言精粹
-+ 设计模式
-+ 权威指南
-+ 高级程序设计
++ [JavaScript语言精粹](http://book.douban.com/subject/3590768/)
++ [JavaScript设计模式](http://book.douban.com/subject/3329540/)
++ [JavaScript权威指南](http://book.douban.com/subject/10549733/)
++ [JavaScript高级程序设计](http://book.douban.com/subject/10546125/)
++ [JAVASCRIPT语言精髓与编程实践](http://book.douban.com/subject/3012828/)
 
 ## 阅读
 + [对话《JavaScript高级程序设计》作者 Nicholas C. Zakas（中文版）](http://www.ituring.com.cn/article/1791)
@@ -135,7 +145,7 @@
 ### 单元测试
 + [QUnit](http://qunitjs.com/)
 + [jsUnit](http://www.jsunit.net/)
-+ YUI
++ [YUI Test](http://yuilibrary.com/yui/docs/test/)
 
 ### 在线工具
 + [HTML Validator](http://validator.w3.org/)
@@ -158,7 +168,7 @@
 + [RegexBuddy](http://www.regexbuddy.com/ "regexbuddy")
 
 ##　版本控制
-+ GIT
++ [Git](git-scm.com/)
 + SVN
 
 
@@ -168,7 +178,7 @@
 + VIM
 + webstorm
 + IntelliJ IDEA
-+ [插件]Zencoding
++ [必备]Zencoding
 
 
 ## ppt
@@ -184,6 +194,7 @@
 + stackoverflow
 + segmentfault
 + zhihu
++ http://www.reddit.com/r/javascript/
 
 ## 其他
 + Google
