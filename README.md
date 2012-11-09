@@ -4,6 +4,13 @@
 @拔赤
 ![skills](https://github.com/airyland/Jsource/raw/master/skill02.jpg)
 
+## 浏览器
++ Chrome （[Chrome Canary](https://tools.google.com/dlpage/chromesxs "chrome canary")）
++ Firefox
++ Safari
++ Opera
++ Fucking IE
+
 ## 国外开源项目
 + [jQuery](https://github.com/jquery/jquery "jQuery")
 + [prototype](https://github.com/sstephenson/prototype "prototype")
