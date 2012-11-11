@@ -136,7 +136,6 @@
 
 ## 工具
 + [Fiddler2](http://www.fiddler2.com/fiddler2/)
-+ [firebug](http://getfirebug.com/)
 + chrome developer tools
 + [IE Tester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 + [Ant](http://ant.apache.org/)
@@ -144,6 +143,10 @@
 + IEDevelopToolbar
 + [HttpWatch](http://www.httpwatch.com/)
 + [马克鳗](http://www.getmarkman.com/)
+
+### 网站性能分析
++ [firebug](http://getfirebug.com/)
++ [Page Speed](https://developers.google.com/speed/pagespeed/)
 
 ### 压缩工具
 + [closure](https://developers.google.com/closure/)
@@ -154,10 +157,14 @@
 + [jsUnit](http://www.jsunit.net/)
 + [YUI Test](http://yuilibrary.com/yui/docs/test/)
 
+### DOC
++ [YUIDoc](http://yui.github.com/yuidoc/)
++ [doxmate](http://html5ify.com/doxmate/)
+
 ### 在线工具
 + [HTML Validator](http://validator.w3.org/)
 + [CSS Validator](http://jigsaw.w3.org/css-validator/)
-+ [Page Speed](https://developers.google.com/speed/pagespeed/)
+
 
 #### placeholders
 + [http://placekitten.com/](http://placekitten.com/)
