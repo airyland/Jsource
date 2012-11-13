@@ -135,6 +135,7 @@
 + [对话《JavaScript高级程序设计》作者 Nicholas C. Zakas（中文版）](http://www.ituring.com.cn/article/1791)
 + [前端架构](http://hikejun.com/sharing/2010webrebuild/?file=fe-infrastructure.html#1)
 + [知乎：前端工程师的价值体现在哪里？](http://www.zhihu.com/question/19589966)
+
 ## 工具
 + [Fiddler2](http://www.fiddler2.com/fiddler2/)
 + chrome developer tools
@@ -180,6 +181,7 @@
 + [jsbin](http://jsbin.com/)
 + [jsfiddle](http://jsfiddle.net/)
 + [dabblet](http://dabblet.com/)
+
 ### 正则工具
 + [RegexBuddy](http://www.regexbuddy.com/ "regexbuddy")
 
