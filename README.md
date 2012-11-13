@@ -78,6 +78,7 @@
 + [John Resig](http://ejohn.org/)
 + [Douglas Crockford](http://javascript.crockford.com/) 
 + [Nicholas C. Zakas](http://www.nczonline.net/)
++ [Jacob Seidelin](http://blog.nihilogic.dk)
 + [cssTricks](http://css-tricks.com/)
 + [DailyJS](http://dailyjs.com/)
 + [tutsplus](http://net.tutsplus.com/category/tutorials/javascript-ajax/)
@@ -133,19 +134,20 @@
 ## 阅读
 + [对话《JavaScript高级程序设计》作者 Nicholas C. Zakas（中文版）](http://www.ituring.com.cn/article/1791)
 + [前端架构](http://hikejun.com/sharing/2010webrebuild/?file=fe-infrastructure.html#1)
-
++ [知乎：前端工程师的价值体现在哪里？](http://www.zhihu.com/question/19589966)
 ## 工具
 + [Fiddler2](http://www.fiddler2.com/fiddler2/)
 + chrome developer tools
++ [firebug](http://getfirebug.com/)
 + [IE Tester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 + [Ant](http://ant.apache.org/)
-+ [YSlow](http://developer.yahoo.com/yslow/)
 + IEDevelopToolbar
 + [HttpWatch](http://www.httpwatch.com/)
 + [马克鳗](http://www.getmarkman.com/)
 
 ### 网站性能分析
-+ [firebug](http://getfirebug.com/)
++ [berserkJs](http://tapir-dream.github.com/berserkJS)
++ [YSlow](http://developer.yahoo.com/yslow/)
 + [Page Speed](https://developers.google.com/speed/pagespeed/)
 
 ### 压缩工具
@@ -177,7 +179,7 @@
 ## 在线调试
 + [jsbin](http://jsbin.com/)
 + [jsfiddle](http://jsfiddle.net/)
-
++ [dabblet](http://dabblet.com/)
 ### 正则工具
 + [RegexBuddy](http://www.regexbuddy.com/ "regexbuddy")
 
@@ -196,12 +198,15 @@
 
 
 ## ppt
-+ http://slides.html5rocks.com
++ [html5rocks](http://slides.html5rocks.com)
++ [TheCodePlayer](http://thecodeplayer.com/)
 
 ## 图像
 + MarkMan
 
 ## 社区
++ slideshare
++ [speakerdeck](https://speakerdeck.com/)
 + github
 + bitbucket
 + gitcafe
