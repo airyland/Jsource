@@ -83,7 +83,7 @@
 + [DailyJS](http://dailyjs.com/)
 + [tutsplus](http://net.tutsplus.com/category/tutorials/javascript-ajax/)
 + [smashingmagazine](http://www.smashingmagazine.com/)
-
++ [Addy Osmani](http://addyosmani.com/blog/)
 
 ## 手册
 + [MDN](https://developer.mozilla.org/)
@@ -132,6 +132,8 @@
 + [JAVASCRIPT语言精髓与编程实践](http://book.douban.com/subject/3012828/)
 
 ## 阅读
++ [Best Practices for Speeding Up Your Web Site](http://developer.yahoo.com/performance/rules.html)
++ [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 + [对话《JavaScript高级程序设计》作者 Nicholas C. Zakas（中文版）](http://www.ituring.com.cn/article/1791)
 + [前端架构](http://hikejun.com/sharing/2010webrebuild/?file=fe-infrastructure.html#1)
 + [知乎：前端工程师的价值体现在哪里？](http://www.zhihu.com/question/19589966)
@@ -145,6 +147,7 @@
 + IEDevelopToolbar
 + [HttpWatch](http://www.httpwatch.com/)
 + [马克鳗](http://www.getmarkman.com/)
++ [jslint](http://www.jslint.com)
 
 ### 网站性能分析
 + [berserkJs](http://tapir-dream.github.com/berserkJS)
@@ -155,10 +158,11 @@
 + [closure](https://developers.google.com/closure/)
 + [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
 
-### 单元测试
+### 测试
 + [QUnit](http://qunitjs.com/)
 + [jsUnit](http://www.jsunit.net/)
 + [YUI Test](http://yuilibrary.com/yui/docs/test/)
++ [selenium](https://code.google.com/p/selenium/)
 
 ### DOC
 + [YUIDoc](http://yui.github.com/yuidoc/)
