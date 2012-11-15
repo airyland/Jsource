@@ -124,7 +124,18 @@
 
 + SASS (CSS Preprocessor) Documentation – http://sass-lang.com/docs.html
 
+## 代码风格指南
++ [Douglas Crockford](http://javascript.crockford.com/code.html)
 
++ [Google](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml#JavaScript_Style_Rules)
+
++ [jQuery](http://docs.jquery.com/JQuery_Core_Style_Guidelines)
+
++ [Idiomatic JavaScript]
+
++ [GitHub](https://github.com/styleguide/javascript)
+
++ [NPM](https://npmjs.org/doc/coding-style.html)
 
 ## 书籍
 + [JavaScript语言精粹](http://book.douban.com/subject/3590768/)
