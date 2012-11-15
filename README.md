@@ -78,12 +78,14 @@
 + [John Resig](http://ejohn.org/)
 + [Douglas Crockford](http://javascript.crockford.com/) 
 + [Nicholas C. Zakas](http://www.nczonline.net/)
++ [Paul Irish](http://paulirish.com/)
++ [Addy Osmani](http://addyosmani.com/blog/)
 + [Jacob Seidelin](http://blog.nihilogic.dk)
 + [cssTricks](http://css-tricks.com/)
 + [DailyJS](http://dailyjs.com/)
 + [tutsplus](http://net.tutsplus.com/category/tutorials/javascript-ajax/)
 + [smashingmagazine](http://www.smashingmagazine.com/)
-+ [Addy Osmani](http://addyosmani.com/blog/)
+
 
 ## 手册
 + [MDN](https://developer.mozilla.org/)
