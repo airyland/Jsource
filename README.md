@@ -131,7 +131,7 @@
 
 + [jQuery](http://docs.jquery.com/JQuery_Core_Style_Guidelines)
 
-+ [Idiomatic JavaScript]
++ [Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js/)
 
 + [GitHub](https://github.com/styleguide/javascript)
 
