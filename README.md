@@ -1,3 +1,7 @@
+Jsource
+-------
+前端资源的收集
+
 ## 前端技能
 ![skills](https://github.com/airyland/Jsource/raw/master/skill.png)
 
@@ -73,14 +77,28 @@
 + [为之漫笔](http://www.cn-cuckoo.com/)(李松峰)
 + [36ria](http://www.36ria.com/)
 + [前端乱炖](http://www.html-js.com/)
++ [Time Machine](http://rlog.cn/) http://rlog.cn/
++ [CSS森林](http://www.cssforest.org/blog/)
++ [吴隽辰（JunChen Wu）](http://www.junchenwu.com)
++ [IBM Developers中国 (Web 前端开发技术专题)](http://www.ibm.com/developerworks/cn/web/wa-front/)
 
 ## 国外博客
 + [John Resig](http://ejohn.org/)
 + [Douglas Crockford](http://javascript.crockford.com/) 
 + [Nicholas C. Zakas](http://www.nczonline.net/)
 + [Paul Irish](http://paulirish.com/)
++ [Dean Edwards](http://dean.edwards.name/)
 + [Addy Osmani](http://addyosmani.com/blog/)
 + [Jacob Seidelin](http://blog.nihilogic.dk)
++ [Eric A. Meyer](http://meyerweb.com/)
+
+
++ [Position Is Everything](http://www.positioniseverything.net/)
++ [SitePoint](http://www.sitepoint.com/)
++ [CSS Globe](http://cssglobe.com/)
++ [Script & Style](http://davidwalsh.name) //davidwalsh.name
++ [456 berea street](http://www.456bereastreet.com/)
++ [A List Apart](http://www.alistapart.com/)
 + [cssTricks](http://css-tricks.com/)
 + [DailyJS](http://dailyjs.com/)
 + [tutsplus](http://net.tutsplus.com/category/tutorials/javascript-ajax/)
