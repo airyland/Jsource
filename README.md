@@ -1,5 +1,5 @@
-Jsource
--------
+# Jsource
+
 前端资源的收集
 
 ## 前端技能
@@ -9,7 +9,7 @@ Jsource
 ![skills](https://github.com/airyland/Jsource/raw/master/skill02.jpg)
 
 ## 浏览器
-+ Chrome （[Chrome Canary](https://tools.google.com/dlpage/chromesxs "chrome canary")）
++ Chrome ([Chrome Canary](https://tools.google.com/dlpage/chromesxs "chrome canary"))
 + Firefox
 + Safari
 + Opera
@@ -91,7 +91,6 @@ Jsource
 + [Addy Osmani](http://addyosmani.com/blog/)
 + [Jacob Seidelin](http://blog.nihilogic.dk)
 + [Eric A. Meyer](http://meyerweb.com/)
-
 
 + [Position Is Everything](http://www.positioniseverything.net/)
 + [SitePoint](http://www.sitepoint.com/)
@@ -231,7 +230,7 @@ Jsource
 + VIM
 + webstorm
 + IntelliJ IDEA
-+ [必备]Zencoding
++ [必备]Zencoding=>[Emmet](http://docs.emmet.io/)
 
 
 ## ppt
