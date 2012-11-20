@@ -51,17 +51,19 @@
 + [司徒正美](http://www.cnblogs.com/rubylouvre "司徒正美")
 + [snandy](http://www.cnblogs.com/snandy/ "snandy")
 + [圆心](http://www.planabc.net/ "圆心")
-+ [玉伯(lifesinger)](http://lifesinger.wordpress.com/)
++ [玉伯(lifesinger)](http://lifesinger.wordpress.com/) || http://lifesinger.iteye.com/
 + [月影](http://www.silverna.org/blog/)
 + [张鑫旭](http://www.zhangxinxu.com/wordpress/ "张鑫旭")
 + [朴灵](http://weibo.com/shyvo "朴灵")
 + [Franky](http://www.cnblogs.com/_franky/ "Franky")
 + [随网之舞](http://dancewithnet.com/ "随网之舞")
++ [周爱民](http://blog.csdn.net/aimingoo/ "周爱民")
 + [sofish](http://sofish.de/ "sofish")
 + [样式之美——嗷嗷](http://www.aoao.org.cn/blog/ "样式之美")
 + [阮一峰](http://www.ruanyifeng.com/blog/ "阮一峰")
 + [克军](http://hikejun.com/ "克军")
-+ [拔赤](http://jayli.github.com/blog/ "拔赤")
++ [拔赤](http://jayli.github.com/blog/ "拔赤") || http://hi.baidu.com/new/lijing00333
++ [阿当](http://hi.baidu.com/new/cly84920)
 + [JerryQu的小站](http://www.imququ.com/ "JerryQu的小站")
 + [ooxx](http://ooxx.me/ "ooxx")
 + [笨活儿](http://blog.benhuoer.com/)
@@ -81,6 +83,10 @@
 + [CSS森林](http://www.cssforest.org/blog/)
 + [吴隽辰（JunChen Wu）](http://www.junchenwu.com)
 + [IBM Developers中国 (Web 前端开发技术专题)](http://www.ibm.com/developerworks/cn/web/wa-front/)
++ [hax](http://hax.iteye.com/)
++ [justjavac](http://justjavac.com/)
++ [beforwe](http://beforweb.com/)
++ [goddyzhao](http://blog.goddyzhao.me/)
 
 ## 国外博客
 + [John Resig](http://ejohn.org/)
@@ -121,7 +127,7 @@
 
 + w3schools:http://www.w3schools.com/
 
-+ http://dev.opera.com
++ Opera Dev:http://dev.opera.com
 
 + CSS Reference – https://developer.mozilla.org/en/CSS/CSS_Reference
 
@@ -140,6 +146,11 @@
 + LESS (CSS Preprocessor) – http://lesscss.org/
 
 + SASS (CSS Preprocessor) Documentation – http://sass-lang.com/docs.html
+
++ Comparison of layout engines (HTML5) - https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(HTML_5)
+
+
+## Accessibility
 
 ## 代码风格指南
 + [Douglas Crockford](http://javascript.crockford.com/code.html)
@@ -203,7 +214,7 @@
 + [CSS Validator](http://jigsaw.w3.org/css-validator/)
 
 
-#### placeholders
+### placeholders
 + [http://placekitten.com/](http://placekitten.com/)
 + [http://dummyimage.com/](http://dummyimage.com/)
 + [http://flickholdr.com/](http://flickholdr.com/)
@@ -219,12 +230,12 @@
 ### 正则工具
 + [RegexBuddy](http://www.regexbuddy.com/ "regexbuddy")
 
-##　版本控制
+###　版本控制
 + [Git](git-scm.com/)
 + SVN
 
 
-## 编辑
+### 编辑
 + Notepad++
 + sublimetext2
 + VIM
