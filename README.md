@@ -47,7 +47,7 @@
 + [Node.js](http://nodejs.org/ "node.js")
 + [Meteor](http://meteor.com/ "Meteor")
 
-## 国内博客
+## 中文博客
 + [司徒正美](http://www.cnblogs.com/rubylouvre "司徒正美")
 + [snandy](http://www.cnblogs.com/snandy/ "snandy")
 + [圆心](http://www.planabc.net/ "圆心")
@@ -88,15 +88,20 @@
 + [beforwe](http://beforweb.com/)
 + [goddyzhao](http://blog.goddyzhao.me/)
 
-## 国外博客
+## 英文博客
 + [John Resig](http://ejohn.org/)
-+ [Douglas Crockford](http://javascript.crockford.com/) 
++ [Douglas Crockford](http://javascript.crockford.com/)
 + [Nicholas C. Zakas](http://www.nczonline.net/)
 + [Paul Irish](http://paulirish.com/)
 + [Dean Edwards](http://dean.edwards.name/)
 + [Addy Osmani](http://addyosmani.com/blog/)
 + [Jacob Seidelin](http://blog.nihilogic.dk)
 + [Eric A. Meyer](http://meyerweb.com/)
++ [steve Souders](http://stevesouders.com/)
++ [Dmitry Baranovskiy](http://dmitry.baranovskiy.com/)
++ [dmitry soshnikov](http://dmitrysoshnikov.com/)
++ [Stoyan Stefanov](http://blog.stoyanstefanov.com/)
++ [javascriptjabber](http://javascriptjabber.com/)
 
 + [Position Is Everything](http://www.positioniseverything.net/)
 + [SitePoint](http://www.sitepoint.com/)
@@ -108,7 +113,7 @@
 + [DailyJS](http://dailyjs.com/)
 + [tutsplus](http://net.tutsplus.com/category/tutorials/javascript-ajax/)
 + [smashingmagazine](http://www.smashingmagazine.com/)
-
++ [yuilibrary](http://yuilibrary.com/)
 
 ## 手册
 + [MDN](https://developer.mozilla.org/)
@@ -149,6 +154,11 @@
 
 + Comparison of layout engines (HTML5) - https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(HTML_5)
 
++ w3help - http://w3help.org/zh-cn/causes/
+
++ JS Libs Deconstructed - http://www.keyframesandcode.com/resources/javascript/deconstructed/
+
++ The JavaScript Show - http://javascriptshow.com/
 
 ## Accessibility
 
@@ -178,6 +188,10 @@
 + [对话《JavaScript高级程序设计》作者 Nicholas C. Zakas（中文版）](http://www.ituring.com.cn/article/1791)
 + [前端架构](http://hikejun.com/sharing/2010webrebuild/?file=fe-infrastructure.html#1)
 + [知乎：前端工程师的价值体现在哪里？](http://www.zhihu.com/question/19589966)
+
+### node.js
++ Node入门 http://www.nodebeginner.org/index-zh-cn.html
++  stream-handbook https://github.com/substack/stream-handbook
 
 ## 工具
 + [Fiddler2](http://www.fiddler2.com/fiddler2/)
@@ -260,19 +274,20 @@
 + stackoverflow
 + segmentfault
 + zhihu
-+ http://www.reddit.com/r/javascript/
++ [javascript@reddit](http://www.reddit.com/r/javascript/)
 
 ## 其他
 + Google
 + google reader
-+ JS Garden
-+ http://html5doctor.com/
++ [javascript秘密花园](http://bonsaiden.github.com/JavaScript-Garden/zh/)
++ [html5doctor](http://html5doctor.com/)
++ [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 
 
 ## 会议
 + webRebuild   成立于2007年，腾讯的彪叔、Ghost等是创始人，目前每年在广州、深圳、上海、北京、成都都会举办分会场交流会
 
-+ D2    由 淘宝网 发起，淘宝的圆心、小马等是创始人，每年在杭州举办交流会和年会
++ [D2](http://www.d2forum.org/)  由 淘宝网 发起，淘宝的圆心、小马等是创始人，每年在杭州举办交流会和年会
 
 + W3ctech   成立于2009年，崔凯和林毅等是创始人，每年在广州、上海、杭州、长沙、北京都会有分会场交流会
 
@@ -281,15 +296,10 @@
 + html5研究小组 成立于2011年，田爱娜创始人，该组织已加入W3C，每年在北京、上海、广州、南京、成都、深圳、杭州、武汉、大连9个城市有分会场交流会
 
 
-## node.js
-+ Node入门 http://www.nodebeginner.org/index-zh-cn.html
-+  stream-handbook https://github.com/substack/stream-handbook
 
 
-## other 
-+ hosts https://github.com/davidsun/HostsFile
 
-## 参考：
-+ http://www.yaohaixiao.com/blog/the-f2e-web-sites.html
-+ http://www.smallni.com/rebuild-thinking/
+
+
+
 
