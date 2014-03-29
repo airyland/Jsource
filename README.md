@@ -84,7 +84,7 @@
 + [吴隽辰（JunChen Wu）](http://www.junchenwu.com)
 + [IBM Developers中国 (Web 前端开发技术专题)](http://www.ibm.com/developerworks/cn/web/wa-front/)
 + [hax](http://hax.iteye.com/)
-+ [justjavac](http://justjavac.com/)
++ [justjavac(迷渡)](http://justjavac.com/)
 + [beforwe](http://beforweb.com/)
 + [goddyzhao](http://blog.goddyzhao.me/)
 
