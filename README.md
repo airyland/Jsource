@@ -160,6 +160,8 @@
 
 + The JavaScript Show - http://javascriptshow.com/
 
++ JavaScript Tutorial - https://www.scaler.com/topics/javascript/
+
 + Devdocs - http://devdocs.io/
 
 ## Accessibility
