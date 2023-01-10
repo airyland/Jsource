@@ -132,6 +132,8 @@
 
 + w3schools:http://www.w3schools.com/
 
++ Scaler Topics:https://www.scaler.com/topics/
+
 + Opera Dev:http://dev.opera.com
 
 + CSS Reference – https://developer.mozilla.org/en/CSS/CSS_Reference
